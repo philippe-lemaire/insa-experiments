@@ -1,0 +1,1 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mrow><mfrac><mrow><mo>∂</mo><mi mathvariant="italic">f</mi></mrow><mrow><mo>∂</mo><mi mathvariant="italic">x</mi></mrow></mfrac><mo>=</mo><mi mathvariant="italic">x</mi><mo>+</mo><mfrac><mrow><mo>∂</mo><mi>ψ</mi></mrow><mrow><mo>∂</mo><mi mathvariant="italic">x</mi></mrow></mfrac></mrow></math>
